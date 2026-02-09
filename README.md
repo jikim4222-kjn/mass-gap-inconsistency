@@ -1,6 +1,8 @@
 # mass-gap-inconsistency
 A minimal reductio argument identifying a logical tension in the standard formulation of the Yang–Mills mass gap problem.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18529983.svg)](https://doi.org/10.5281/zenodo.18529983)
+
 This repository documents a logical tension in the standard formulation of the
 Yang–Mills mass gap problem as posed by the Clay Mathematics Institute.
 
